@@ -1,4 +1,4 @@
-# CodeAlpha-Internship-Projects
+# CodeAlpha-Internship-Projects CALCULATOR
 Build a Calculator
 
 A Calculater Project with basic arithmetic
